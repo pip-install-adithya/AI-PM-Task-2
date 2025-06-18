@@ -4,7 +4,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_groq.chat_models import ChatGroq
 
 
-api_key = "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"
+api_key = YOUR_GROQ_API_KEY
 
 
 # first load the text from the given pdf
