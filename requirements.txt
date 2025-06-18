@@ -1,0 +1,7 @@
+pytesseract
+langchain_core
+langchain_groq
+pillow
+pymupdf
+numpy
+
